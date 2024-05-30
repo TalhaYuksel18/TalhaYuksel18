@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben <span style="background: linear-gradient(in hsl longer hue 45deg, red 0 0);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Talha Yüksel</span></h1>
+<h1 align="center">Merhaba 👋, Ben Talha Yüksel</h1>
 <h3 align="center">Öğrenmeye Hevesli Bir Front-End Developerım.</h3>
 
 - 👨‍💻 Hakkımda Her Şeyi Web Sitem Üzerinden Öğrenebilirsiniz: [https://www.talhayuksel.com](https://www.talhayuksel.com)
@@ -12,7 +12,7 @@
 <h3 align="left">Sosyal Medya Hesaplarım:</h3>
 <p align="left">
 <a style="color: transparent;" href="https://linkedin.com/in/talhayuksel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhayuksel" height="70" width="70" /></a>
-<a style="color: transparent;" href="https://discord.gg/jYpasru5Qt" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="talhayuksel" height="70" width="70" /></a>
+<a style="color: transparent;" href="https://discord.gg/jYpasru5Qt" target="blank"><img align="center" style="margin-left: 15px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="talhayuksel" height="70" width="70" /></a>
 </p>
 
 <h3 align="left">Hakim Olduğum Programlama Dilleri:</h3>
