@@ -1,3 +1,5 @@
+[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+
 <h1 align="center">Merhaba 👋, Ben Talha Yüksel</h1>
 <h3 align="center">Öğrenmeye Hevesli Bir Front-End Developerım.</h3>
 
