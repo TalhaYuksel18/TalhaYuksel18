@@ -12,7 +12,7 @@
 <h3 align="left">Sosyal Medya Hesaplarım:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/talhayuksel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhayuksel" height="70" width="70" /></a>
-<a href="https://discord.gg/6cXfBehVav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="talhayuksel" height="70" width="70" /></a>
+<a href="https://discord.gg/6cXfBehVav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="talhayuksel" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Hakim Olduğum Programlama Dilleri:</h3>
