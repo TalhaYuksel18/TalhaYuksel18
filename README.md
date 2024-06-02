@@ -1,9 +1,9 @@
-<h1 align="center">Merhaba 👋, Ben Talha Yüksel</h1>
+7<h1 align="center">Merhaba 👋, Ben Talha Yüksel</h1>
 <h3 align="center">Öğrenmeye Hevesli Bir Front-End Developerım.</h3>
 
-- 👨‍💻 Hakkımda Her Şeyi Web Sitem Üzerinden Öğrenebilirsiniz: [https://www.talhayuksel.com](https://www.talhayuksel.com)
+- 👨‍💻 Hakkımda Her Şeyi Web Sitem Üzerinden Öğrenebilirsiniz: [talhayuksel.com](https://www.talhayuksel.com)
 
-- 📝 Yapmış Olduğum Projeleri Buradan Görüntüleyebilirsiniz: [https://www.talhayuksel.com/projelerim](https://www.talhayuksel.com/projelerim)
+- 📝 Yapmış Olduğum Projeleri Buradan Görüntüleyebilirsiniz: [talhayuksel.com/projelerim](https://www.talhayuksel.com/projelerim)
 
 - 💬 Bana Bu Alanlar Hakkında Sorular Sorabilirsiniz: **HTML, CSS, JS, C#**
 
