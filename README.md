@@ -1,4 +1,4 @@
-7<h1 align="center">Merhaba 👋, Ben Talha Yüksel</h1>
+<h1 align="center">Merhaba 👋, Ben Talha Yüksel</h1>
 <h3 align="center">Öğrenmeye Hevesli Bir Front-End Developerım.</h3>
 
 - 👨‍💻 Hakkımda Her Şeyi Web Sitem Üzerinden Öğrenebilirsiniz: [talhayuksel.com](https://www.talhayuksel.com)
