@@ -3,8 +3,6 @@
 
 - 👨‍💻 Hakkımda Her Şeyi Web Sitem Üzerinden Öğrenebilirsiniz: [talhayuksel.com](https://www.talhayuksel.com)
 
-- 📝 Yapmış Olduğum Projeleri Buradan Görüntüleyebilirsiniz: [talhayuksel.com/projelerim](https://www.talhayuksel.com/projelerim)
-
 - 💬 Bana Bu Alanlar Hakkında Sorular Sorabilirsiniz: **HTML, CSS, JS, C#**
 
 - 📫 Bana Ulaşın: **tal007yuk@gmail.com**
